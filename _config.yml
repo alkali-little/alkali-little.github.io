@@ -46,10 +46,10 @@ repository: 'alkali-little.github.io' # change this to your repository name
 title: "Amanda Laury Kleintop, PhD"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "Assistant Professor of History, Elon University"
+subtitle: "Scholar, Teacher, Community Member"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "Scholar, Teacher, Community Member"
+description: "I am an Assistant Professor of History at Elon University, where I run the Museum Studies & Public History minor. As a historian of the Civil War and Reconstruction, I research and teach on comparative slavery and emancipation, US legal history, and Civil War memory. My first book, <i>Counting the Cost of Freedom,</i>, published with the University of North Carolina Press in 2025, explores the history and consequences of debates to compensate former enslavers for the value of enslaved people freed during the Civil War."
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
@@ -65,11 +65,6 @@ sitedate : 2026
 
 # Other community social media. Leave blank if you don't have these.
 email : "a.kleintop@gmail.com"
-website : ""
-twitter : ""
-github : ""
-facebook : ""
-instagram : ""
 
 # If you need to know how many people visit your site, go to https://analytics.google.com/
 # When you finish the setup assistant, it will give you a Measurement ID: G-ABCDEFGHIJ
