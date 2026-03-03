@@ -1,5 +1,5 @@
 ---
-title: IDAH Community Archiving Template
+title: Amanda Laury Kleintop, PhD
 layout: homepage
 permalink: /
 ---
